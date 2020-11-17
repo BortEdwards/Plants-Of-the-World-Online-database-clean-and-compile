@@ -1,0 +1,369 @@
+area|geomid
+Alberta|1
+Afghanistan|2
+Argentina Northeast|3
+Argentina South|4
+Argentina Northwest|5
+Alabama|6
+Albania|7
+Aldabra|8
+Algeria|9
+Altay|10
+Aleutian Is.|11
+Amur|12
+Andaman Is.|13
+Angola|14
+Antarctica|15
+Arizona|16
+Arkansas|17
+Aruba|18
+Ascension|19
+Alaska|20
+Amsterdam-St.Paul Is|21
+Assam|22
+Antipodean Is.|23
+Austria|24
+Azores|25
+Bahamas|26
+Baleares|27
+Bangladesh|28
+Benin|29
+Bermuda|30
+Belgium|31
+Bismarck Archipelago|32
+Burkina|33
+Belarus|34
+Baltic States|35
+Belize|36
+Bolivia|37
+Borneo|38
+Botswana|39
+British Columbia|41
+Buryatiya|42
+Bulgaria|43
+Burundi|44
+Brazil West-Central|45
+Brazil Northeast|46
+Brazil Southeast|47
+Brazil North|48
+Brazil South|49
+Cabinda|50
+Central African Repu|51
+California|52
+Cayman Is.|53
+Cambodia|54
+Chagos Archipelago|55
+Chad|56
+China South-Central|57
+Hainan|58
+Inner Mongolia|59
+Manchuria|60
+China North-Central|61
+Qinghai|62
+China Southeast|63
+Tibet|64
+Xinjiang|65
+Cocos (Keeling) Is.|66
+Chile Central|67
+Colombia|68
+Chile North|69
+Chile South|70
+Cameroon|71
+Connecticut|72
+Canary Is.|73
+Colorado|74
+Comoros|75
+Congo|76
+Cook Is.|77
+Corse|78
+Costa Rica|79
+Central American Pac|80
+Cape Provinces|81
+Caprivi Strip|82
+Caroline Is.|83
+Crozet Is.|84
+Chita|85
+Chatham Is.|86
+Cuba|87
+Cape Verde|88
+Cyprus|89
+Czechoslovakia|90
+Delaware|91
+Denmark|92
+Djibouti|93
+Dominican Republic|94
+Desventurados Is.|95
+East Aegean Is.|96
+Easter Is.|97
+Ecuador|98
+Egypt|99
+East Himalaya|100
+El Salvador|101
+Equatorial Guinea|102
+Eritrea|103
+Ethiopia|104
+Falkland Is.|105
+Fiji|106
+Finland|107
+Florida|108
+Føroyar|109
+France|110
+French Guiana|111
+Gabon|112
+Galápagos|113
+Gambia|114
+Georgia|115
+Germany|116
+Gulf of Guinea Is.|117
+Ghana|118
+Gilbert Is.|119
+Guinea-Bissau|120
+Greenland|121
+Great Britain|122
+Greece|123
+Gulf States|124
+Guatemala|125
+Guinea|126
+Guyana|127
+Haiti|128
+Hawaii|129
+Howland-Baker Is.|130
+Heard-McDonald Is.|131
+Honduras|132
+Hungary|133
+Iceland|134
+Idaho|135
+Illinois|136
+India|137
+Indiana|138
+Iowa|139
+Ireland|140
+Irkutsk|141
+Iran|142
+Iraq|143
+Italy|144
+Ivory Coast|145
+Jamaica|146
+Japan|147
+Jawa|148
+Juan Fernández Is.|149
+Kamchatka|150
+Kansas|151
+Kazakhstan|152
+Kerguelen|153
+Kenya|154
+Kermadec Is.|155
+Kirgizstan|156
+Khabarovsk|157
+Korea|158
+Krasnoyarsk|159
+Kriti|160
+Krym|161
+Kentucky|162
+Kuril Is.|163
+Kuwait|164
+Kazan-retto|165
+Labrador|166
+Laos|167
+Liberia|168
+Lebanon-Syria|169
+Libya|170
+Laccadive Is.|171
+Leeward Is.|172
+Lesotho|173
+Line Is.|174
+Louisiana|175
+Lesser Sunda Is.|176
+Magadan|177
+Maine|178
+Manitoba|179
+Macquarie Is.|180
+Masachusettes|181
+Mauritius|182
+Mozambique Channel I|183
+Marcus I.|184
+Madagascar|185
+Madeira|186
+Maldives|187
+Michigan|188
+Minnesota|189
+Mali|190
+Malawi|191
+Malaya|192
+Montana|193
+Maluku|194
+Mongolia|195
+Morocco|196
+Mozambique|197
+Marion-Prince Edward|198
+Marianas|199
+Marquesas|200
+Marshall Is.|201
+Maryland|202
+Mississippi|203
+Missouri|204
+Mauritania|205
+Mexico Central|206
+Mexico Northeast|207
+Mexico Gulf|208
+Mexican Pacific Is.|209
+Mexico Northwest|210
+Mexico Southwest|211
+Mexico Southeast|212
+Myanmar|213
+Namibia|214
+KwaZulu-Natal|215
+New Brunswick|216
+North Carolina|217
+Nicobar Is.|218
+North Caucasus|219
+North Dakota|220
+Nebraska|221
+Nepal|222
+Netherlands|223
+Nevada|224
+Norfolk Is.|225
+Newfoundland|226
+Nigeria|227
+Niger|228
+Nicaragua|229
+Netherlands Antilles|230
+Nansei-shoto|231
+Norway|232
+Nauru|233
+Nova Scotia|234
+New South Wales|235
+Northern Territory|236
+Niue|237
+Nunavut|238
+New Caledonia|239
+New Guinea|240
+New Hampshire|241
+New Jersey|242
+New Mexico|243
+Northwest Territorie|244
+New York|245
+New Zealand North|246
+New Zealand South|247
+Free State|248
+Ogasawara-shoto|249
+Ohio|250
+Oklahoma|251
+Oman|252
+Ontario|253
+Oregon|254
+Pakistan|255
+Palestine|256
+Panamá|257
+Paraguay|258
+Prince Edward I.|259
+Pennsylvania|260
+Peru|261
+Philippines|262
+Phoenix Is.|263
+Pitcairn Is.|264
+Poland|265
+Portugal|266
+Primorye|267
+Puerto Rico|268
+Queensland|269
+Québec|270
+Réunion|271
+Rhode I.|272
+Rodrigues|273
+Romania|274
+Central European Rus|275
+East European Russia|276
+North European Russi|277
+South European Russi|278
+Northwest European R|279
+Rwanda|280
+Sakhalin|281
+Samoa|282
+Sardegna|283
+Saskatchewan|284
+Saudi Arabia|285
+South Carolina|286
+Society Is.|287
+South China Sea|288
+Santa Cruz Is.|289
+South Dakota|290
+Selvagens|291
+Senegal|292
+Seychelles|293
+South Georgia|294
+Sicilia|295
+Sierra Leone|296
+Sinai|297
+South Australia|298
+Socotra|299
+Solomon Is.|300
+Somalia|301
+Spain|302
+Sri Lanka|303
+South Sandwich Is.|304
+St.Helena|305
+Sudan|306
+Sulawesi|307
+Sumatera|308
+Suriname|309
+Svalbard|310
+Southwest Caribbean|311
+Sweden|312
+Switzerland|313
+Swaziland|314
+Taiwan|315
+Tanzania|316
+Tasmania|317
+Turks-Caicos Is.|318
+Transcaucasus|319
+Tristan da Cunha|320
+Tennessee|321
+Texas|322
+Thailand|323
+Turkmenistan|324
+Togo|325
+Tokelau-Manihiki|326
+Tonga|327
+Trinidad-Tobago|328
+Tuamotu|329
+Tubuai Is.|330
+Turkey-in-Europe|331
+Tunisia|332
+Turkey|333
+Tuvalu|334
+Tuva|335
+Northern Provinces|336
+Tadzhikistan|337
+Uganda|338
+Ukraine|339
+Uruguay|340
+Utah|341
+Uzbekistan|342
+Vanuatu|343
+Venezuela|344
+Vermont|345
+Victoria|346
+Vietnam|347
+Venezuelan Antilles|348
+Virginia|349
+Wake I.|350
+Wallis-Futuna Is.|351
+Washington|352
+Western Australia|353
+District of Columbia|354
+West Himalaya|355
+Windward Is.|356
+Wisconsin|357
+Western Sahara|358
+West Siberia|359
+West Virginia|360
+Wyoming|361
+Christmas I.|362
+Yakutskiya|363
+Yemen|364
+Yugoslavia|365
+Yukon|366
+Zaïre|367
+Zambia|368
+Zimbabwe|369
